@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1559749705744.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2148854434",
+    "id" : "4E6418BC",
+    "lastKnownWriteTime" : 1559749792,
+    "last_content_update" : 1559749792113,
+    "path" : "~/Project-0012/nuFolder/test.R",
+    "project_path" : "nuFolder/test.R",
+    "properties" : {
+        "cursorPosition" : "3,7",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
