@@ -4,9 +4,9 @@ test5 <- function(arg1= integer(), arg2= integer(), arg3= "Yes") {
   
 }
 
-test1(arg1 = 3, arg2 = 4)
-test1(3, 4)
-test1(arg2 = 4, arg = 3)
+test2(arg1 = 3, arg2 = 4)
+test2(3, 4)
+test2(arg2 = 4, arg = 3)
 
 
 test2 <-function(arg4 = character(), arg5 = integer(), arg6 = integer()) {
